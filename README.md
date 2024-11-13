@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Mary Dorenbos and I am a senior at the University of Iowa studying Business Analytics & Information Systems.
+I'm currently enrolled in a course Data Wrangling which utilizes github in the course material.
 <!--
 **mdorenbos120/mdorenbos120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
